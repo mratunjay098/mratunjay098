@@ -10,3 +10,16 @@ Highly driven M.Tech. Candidate at the Indian Institute of Technology, Bhilai, s
 ## 🛠 Skills
 Data Analytics, Machine Learning, Deep Learning, and Computer Vision
 
+
+
+## ⛏️ Programming languages, Libraries, Tools and Technologies
+Python, JavaScript, HTML, CSS, Docker, Flask, Jupyter Notebook, VS Code, SQL, Power BI, Web Scraping, Google
+Colab, Google Sheets, Google App Script, LaTex, Windows, Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, and PyTorch
+
+## 📜 Certifications
+1. Master the Coding Interview: Data Structures + Algorithms by Andrei Neagoie on Udemy
+2. Machine Learning Specialization by Andrew Ng on Coursera
+3. NPTEL Certification in Data Analytics using Python
+
+
+
