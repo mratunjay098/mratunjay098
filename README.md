@@ -8,5 +8,5 @@ I'm pursuing my M. Tech in Mechatronics Engineering at IIT Bhilai.
 
 
 ## 🛠 Skills
-Machine Learning, Deep Learning, and Comuter Vision
+Data Analytics, Machine Learning, Deep Learning, and Computer Vision
 
