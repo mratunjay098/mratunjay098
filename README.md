@@ -8,12 +8,12 @@ Currently working in Zooper as Software Developer AI & ML. Completed M.Tech. at 
 
 
 ## 🛠 Skills
-Data Analytics, Machine Learning, Deep Learning, and Computer Vision
+App Development, Data Analytics, Machine Learning, Deep Learning, and Computer Vision
 
 
 
 ## ⛏️ Programming languages, Libraries, Tools and Technologies
-Python, JavaScript, HTML, CSS, Docker, Flask, Jupyter Notebook, VS Code, SQL, Power BI, Web Scraping, Google
+Python, Flutter, JavaScript, HTML, CSS, Docker, Flask, Jupyter Notebook, VS Code, SQL, Power BI, Web Scraping, Google
 Colab, Google Sheets, Google App Script, LaTex, Windows, Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, and PyTorch
 
 ## 📜 Certifications
